@@ -43,5 +43,5 @@ document.getElementById("my_portfolio").onclick = function() {
 
 //tombol source code my portofolio
 document.getElementById("sc_my_portfolio").onclick = function() {
-    window.location.href = "https://github.com/WMalvin31/portofoliomw";
+    window.location.href = "https://github.com/WMalvin31/malpinw";
 };
