@@ -40,8 +40,3 @@ document.getElementById("github").onclick = function() {
 document.getElementById("my_portfolio").onclick = function() {
     window.location.href = "https://malpinw.vercel.app";
 };
-
-//tombol source code my portofolio
-document.getElementById("sc_my_portfolio").onclick = function() {
-    window.location.href = "https://github.com/WMalvin31/malpinw";
-};
