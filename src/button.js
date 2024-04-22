@@ -21,11 +21,6 @@ document.getElementById("email").onclick = function() {
 window.location.href = "mailto:malvinw123@gmail.com";
 };
 
-//tombol youtube
-document.getElementById("youtube").onclick = function() {
-window.location.href = "https://www.youtube.com/@MalvinWijaya";
-};
-
 //tombol linkedin
 document.getElementById("linkedin").onclick = function() {
     window.location.href = "https://www.linkedin.com/in/malvin-wijaya-43570524b/";
